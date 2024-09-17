@@ -4,7 +4,7 @@
 
 ![framework](images/framework.png)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg) [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md) [![arXiv](https://img.shields.io/badge/arXiv-Paper-green.svg)](https://arxiv.org/abs/2307.08933)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg) [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE) [![arXiv](https://img.shields.io/badge/arXiv-Paper-green.svg)](https://arxiv.org/abs/2307.08933)
 
 # Table of Contents
 
@@ -421,7 +421,7 @@ Use the side bar to select the agent rollout to inspect, and the main window to 
 
 # License Notice
 
-The code is provided under the GPLv3 license (see [full license file](LICENSE.md)). To use the code under a different set of licensing terms, please contact [SRI International](https://www.sri.com/)'s licensing department at [licensee-ops@sri.com](mailto:licensee-ops@sri.com).
+The code is provided under the GPLv3 license (see [full license file](LICENSE)). To use the code under a different set of licensing terms, please contact [SRI International](https://www.sri.com/)'s licensing department at [licensee-ops@sri.com](mailto:licensee-ops@sri.com).
 
 # Support
 
